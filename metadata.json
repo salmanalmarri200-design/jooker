@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Jooker Confluence Terminal",
+  "description": "منصة جوكر الصارمة لتحليل شارات التداول بتوافق الفلاتر الفنية الثلاثية منزوعة المشاعر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
